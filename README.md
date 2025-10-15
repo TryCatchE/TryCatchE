@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a self-driven full-stack software developer with expertise in Java, Spring Boot, and modern JavaScript frameworks.  
-I enjoy building scalable, maintainable solutions and collaborating on React and Next.js projects.  
-Currently exploring advanced web development techniques and cloud-integrated applications.
+I enjoy exploring React, Next.js, and JavaScript frameworks while experimenting with APIs, and modern development workflows.
+Constantly learning, I focus on clean code, reusable components, and efficient system design to create impactful projects.
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
